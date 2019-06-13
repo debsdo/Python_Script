@@ -26,8 +26,6 @@ dir_src = 'D:\\deepweedsx\\DeepWeeds_Images_256'
 #destination folder
 dir_dst = 'D:\\project\\train' 
 
-#dir_dst = 'D:\\project\\test'
-
 #code to move files
 for f in file:
     	print file  # testing
