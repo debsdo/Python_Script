@@ -4,7 +4,7 @@ Collection of easy-peasy python scripts to automate stuff.
 
 # 1) move_sp_files.py :
 
-Script to MOVE files from one folder to another. Just replace the directory names.
+Script to MOVE SPECIFIC files from one folder to another. Just replace the directory names.
 
 # 2) resize.py :
 
